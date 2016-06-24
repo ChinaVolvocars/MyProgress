@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:2:1-27:12
+	xmlns:android
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+application
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:8:13-45
+	android:allowBackup
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:9:13-44
+activity#com.deange.ropeprogress.ChooserActivity
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:13:17-49
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:12:17-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:16:27-74
+activity#com.deange.ropeprogress.StaticHeightRopeActivity
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:20:9-101
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:20:60-99
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:20:19-59
+activity#com.deange.ropeprogress.DynamicHeightRopeActivity
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:21:9-103
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:21:61-101
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:21:19-60
+activity#com.deange.ropeprogress.ThemedRopeActivity
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:22:9-95
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:22:54-93
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:22:19-53
+activity#com.deange.ropeprogress.CustomTextRopeActivity
+ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:23:9-99
+	android:label
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:23:58-97
+	android:name
+		ADDED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml:23:19-57
+uses-sdk
+INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [MyProgress:library:unspecified] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\MyProgress\library\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\DevelopmentTools\code\MyProgress\sample\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] D:\DevelopmentTools\code\MyProgress\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75

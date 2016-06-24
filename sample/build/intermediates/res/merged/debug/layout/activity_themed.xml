@@ -1,0 +1,28 @@
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <FrameLayout
+            android:id="@+id/progress_bars_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+            android:background="@drawable/bounding_box">
+
+        <com.deange.ropeprogressview.RopeProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:ropePrimaryColor="@android:color/black"
+                app:ropeSecondaryColor="@android:color/darker_gray"
+                app:ropeStrokeWidth="16dp"
+                app:ropeSlack="64dp"
+                app:ropeMax="@integer/progress_max"/>
+
+    </FrameLayout>
+
+    <include layout="@layout/toolbar"/>
+
+</RelativeLayout>
